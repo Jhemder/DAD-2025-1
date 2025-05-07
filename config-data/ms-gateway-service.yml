@@ -26,4 +26,4 @@ spring:
         - id: ms-cliente-service
           uri: lb://cliente-service
           predicates:
-            - Path=/cliente/**
+            - Path=/clientes/**
