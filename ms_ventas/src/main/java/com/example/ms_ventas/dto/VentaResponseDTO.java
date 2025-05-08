@@ -1,4 +1,4 @@
-package com.example.ms_venta.dto;
+package com.example.ms_ventas.dto;
 
 public class VentaResponseDTO {
     private Object cliente;

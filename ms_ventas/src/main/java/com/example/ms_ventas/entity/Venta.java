@@ -1,4 +1,4 @@
-package com.example.ms_venta.entity;
+package com.example.ms_ventas.entity;
 
 public class Venta {
     private Integer id;
