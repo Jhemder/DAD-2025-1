@@ -1,8 +1,17 @@
 package com.example.ms_ventas.entity;
 
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "ventas") // Nombre de la tabla en la base de datos
 public class Venta {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
+
     private Integer clienteId;
+
     private Integer categoriaId;
 
     public Venta() {

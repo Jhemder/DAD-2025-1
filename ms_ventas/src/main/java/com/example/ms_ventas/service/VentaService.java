@@ -1,6 +1,6 @@
-package com.example.ms_venta.service;
+package com.example.ms_ventas.service;
 
-import com.example.ms_venta.entity.Venta;
+import com.example.ms_ventas.entity.Venta;
 import java.util.List;
 
 public interface VentaService {

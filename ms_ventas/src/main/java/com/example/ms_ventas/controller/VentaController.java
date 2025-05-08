@@ -1,7 +1,7 @@
-package com.example.ms_venta.controller;
+package com.example.ms_ventas.controller;
 
-import com.example.ms_venta.dto.VentaResponseDTO;
-import com.example.ms_venta.entity.Venta;
+import com.example.ms_ventas.dto.VentaResponseDTO;
+import com.example.ms_ventas.entity.Venta;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;

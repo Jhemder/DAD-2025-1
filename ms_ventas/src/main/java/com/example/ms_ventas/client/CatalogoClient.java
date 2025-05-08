@@ -1,6 +1,6 @@
-package com.example.ms_venta.client;
+package com.example.ms_ventas.client;
 
-import com.example.ms_venta.dto.CatalogoDTO;
+import com.example.ms_ventas.dto.CatalogoDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,8 +1,8 @@
-package com.example.ms_venta.service.impl;
+package com.example.ms_ventas.service.impl;
 
-import com.example.ms_venta.entity.Venta;
-import com.example.ms_venta.repository.VentaRepository;
-import com.example.ms_venta.service.VentaService;
+import com.example.ms_ventas.entity.Venta;
+import com.example.ms_ventas.repository.VentaRepository;
+import com.example.ms_ventas.service.VentaService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
